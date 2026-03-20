@@ -1,8 +1,9 @@
 #include <stdio.h>
 
-int main(){
+int main.c(){
+  
+  printf("Bom dia grupo\n");
+  printf("Caio Henrique Ferraz da Silva");
 
-    printf("Bom dia grupo\n");
-    return 0;
-
+ return 0;
 }
